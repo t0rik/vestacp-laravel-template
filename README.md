@@ -11,5 +11,5 @@ chmod a+x /usr/local/vesta/data/templates/web/apache2/Laravel-PHP-FPM-80.sh
 ```
 
 ## Note
-> PHP 8.0 must me installed on system.
+> PHP 8.0 must be installed on system.
 
